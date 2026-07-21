@@ -1,0 +1,6 @@
+{
+  "name": "AI English Practice",
+  "description": "An interactive AI English learning assistant featuring situational roleplay, real-time grammar feedback, pronunciation guides, vocabulary building, and text polishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
